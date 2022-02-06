@@ -2,8 +2,8 @@ const BLOG = {
   title: 'Yet another blog',
   author: 'Charles Leerink',
   email: 'charles@leerink.me',
-  link: 'https://nobelium.vercel.app',
-  description: 'Just a copy of my LinkedIn Articles',
+  link: 'https://charles-blog-test.vercel.app/',
+  description: 'Just a copy of my LinkedIn Articles and other ramblings',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'dark', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
