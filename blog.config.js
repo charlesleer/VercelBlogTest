@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Yet another blog,
+  title: 'Yet another blog',
   author: 'Charles Leerink',
   email: 'charles@leerink.me',
   link: 'https://nobelium.vercel.app',
@@ -19,7 +19,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://www.linkedin.com/in/charlesleerink/',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion', 'LinkedIn','Android','ReverseEngineering','CTF'],
+    keywords: ['Blog', 'Website', 'Notion', 'LinkedIn', 'Android', 'ReverseEngineering', 'CTF'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
